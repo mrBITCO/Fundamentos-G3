@@ -1,4 +1,4 @@
-"""class Calculadora:
+class Calculadora:
     def __init__(self, numero):
         self.resultado = numero
 
@@ -30,10 +30,10 @@ calculo.multiplica(4)
 calculo.dividir(0)
 
 ResOperaciones = calculo.op_resultado()
-print(ResOperaciones)"""
+print(ResOperaciones)
 
 
-class Calculadora:
+"""class Calculadora:
     
     def suma(self, num1, num2):
         return num1 + num2 
@@ -57,7 +57,7 @@ numero2 = float(input("Ingrese numero2"))
 
 
 
-print(calculadora1.suma(numero1, numero2))
+print(calculadora1.suma(numero1, numero2))"""
 
 
 
